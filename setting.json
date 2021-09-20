@@ -70,7 +70,6 @@
           "value-attribute":"${descriptionPost}"
         }
       ],
-      "name-element":"veref",
   "data-attribute":[
     {
       "name-attribute":"name",
